@@ -1,12 +1,13 @@
-# Windows-10-useful-things
+# Przydatne rzeczy do Windowsa
 
-Odpalanie godmode za pomocą WIN+R
-shell:::{ED7BA470-8E54-465E-825C-99712043E01C}
+Odpalanie godmode za pomocą WIN+R  
+`shell:::{ED7BA470-8E54-465E-825C-99712043E01C}`
 
-Nazwa folderu z godmode gm.{ED7BA470-8E54-465E-825C-99712043E01C}  
+Nazwa folderu z godmode  
+`gm.{ED7BA470-8E54-465E-825C-99712043E01C}  `
 
-Inne CLSID'y
-Biblioteki systemu Windows {031E4825-7B94-4DC3-B131-E946B44C8DD5}
+## Inne CLSID'y
+```Biblioteki systemu Windows {031E4825-7B94-4DC3-B131-E946B44C8DD5}
 Folder Drukarki {2227A280-3AEA-1069-A2DE-08002B30309D}
 Systemowy Kosz {645FF040-5081-101B-9F08-00AA002F954E}
 Kopia zapasowa i przywracanie (mechanizm z Windows 7; nie zadziała w systemie Windows 8/8.1) {B98A2BEA-7D42-4558-8BD1-832F41BAC6FD}
