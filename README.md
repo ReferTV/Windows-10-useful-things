@@ -6,7 +6,7 @@ Odpalanie godmode za pomocą WIN+R
 Nazwa folderu z godmode  
 `gm.{ED7BA470-8E54-465E-825C-99712043E01C}  `
 
-## Inne CLSID'y
+## Inne CLSID'y (Identyfikator klas obiektów COM)
 ```Biblioteki systemu Windows {031E4825-7B94-4DC3-B131-E946B44C8DD5}
 Folder Drukarki {2227A280-3AEA-1069-A2DE-08002B30309D}
 Systemowy Kosz {645FF040-5081-101B-9F08-00AA002F954E}
